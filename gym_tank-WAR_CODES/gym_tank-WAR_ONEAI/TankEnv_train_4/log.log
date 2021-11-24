@@ -1,0 +1,40 @@
+[32m[11-17 23:26:05 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 20
+[32m[11-17 23:26:21 MainThread @dqn_train.py:62][0m Total steps 1000, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:26:42 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 30
+[32m[11-17 23:26:46 MainThread @dqn_train.py:62][0m Total steps 2000, Evaluation over 285 steps, Average reward: -0.3508771929824561
+[32m[11-17 23:27:07 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 30
+[32m[11-17 23:27:24 MainThread @dqn_train.py:62][0m Total steps 3000, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:27:46 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 10
+[32m[11-17 23:28:03 MainThread @dqn_train.py:62][0m Total steps 4000, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:28:25 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 30
+[32m[11-17 23:28:30 MainThread @dqn_train.py:62][0m Total steps 5000, Evaluation over 335 steps, Average reward: -0.29850746268656714
+[32m[11-17 23:28:52 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 30
+[32m[11-17 23:29:09 MainThread @dqn_train.py:62][0m Total steps 6000, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:29:31 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 50
+[32m[11-17 23:29:47 MainThread @dqn_train.py:62][0m Total steps 7000, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:30:09 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 30
+[32m[11-17 23:30:26 MainThread @dqn_train.py:62][0m Total steps 8000, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:30:48 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 10
+[32m[11-17 23:30:53 MainThread @dqn_train.py:62][0m Total steps 9000, Evaluation over 285 steps, Average reward: -1.0526315789473684
+[32m[11-17 23:31:14 MainThread @dqn_train.py:82][0m train_episode over 977 steps, rewards -100
+[32m[11-17 23:31:14 MainThread @dqn_train.py:82][0m train_episode over 1 steps, rewards 0
+[32m[11-17 23:31:36 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 10
+[32m[11-17 23:31:53 MainThread @dqn_train.py:62][0m Total steps 10978, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:32:15 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 40
+[32m[11-17 23:32:31 MainThread @dqn_train.py:62][0m Total steps 11978, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:32:53 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 50
+[32m[11-17 23:33:10 MainThread @dqn_train.py:62][0m Total steps 12978, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:33:33 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 70
+[32m[11-17 23:33:50 MainThread @dqn_train.py:62][0m Total steps 13978, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:34:04 MainThread @dqn_train.py:82][0m train_episode over 613 steps, rewards -100
+[32m[11-17 23:34:04 MainThread @dqn_train.py:62][0m Total steps 14591, Evaluation over 1 steps, Average reward: 0.0
+[32m[11-17 23:34:26 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 0
+[32m[11-17 23:34:31 MainThread @dqn_train.py:62][0m Total steps 15591, Evaluation over 285 steps, Average reward: -1.4035087719298245
+[32m[11-17 23:34:54 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 20
+[32m[11-17 23:35:11 MainThread @dqn_train.py:62][0m Total steps 16591, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:35:34 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 10
+[32m[11-17 23:35:51 MainThread @dqn_train.py:62][0m Total steps 17591, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:36:15 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 10
+[32m[11-17 23:36:31 MainThread @dqn_train.py:62][0m Total steps 18591, Evaluation over 1000 steps, Average reward: 0.0
+[32m[11-17 23:36:54 MainThread @dqn_train.py:82][0m train_episode over 1000 steps, rewards 50
+[32m[11-17 23:37:10 MainThread @dqn_train.py:62][0m Total steps 19591, Evaluation over 1000 steps, Average reward: 0.0
