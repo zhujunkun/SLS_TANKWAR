@@ -1,0 +1,716 @@
+[32m[11-16 20:19:57 MainThread @dqn_train.py:97][0m train_episode over 95 steps, rewards -20868
+[32m[11-16 20:19:57 MainThread @dqn_train.py:98][0m train_episode over 95 steps, rewards -15867 for enemy
+[32m[11-16 20:20:13 MainThread @dqn_train.py:67][0m Total steps 95, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:20:13 MainThread @dqn_train.py:68][0m Total steps 95, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:20:16 MainThread @dqn_train.py:97][0m train_episode over 148 steps, rewards -29358
+[32m[11-16 20:20:16 MainThread @dqn_train.py:98][0m train_episode over 148 steps, rewards -24357 for enemy
+[32m[11-16 20:20:17 MainThread @dqn_train.py:97][0m train_episode over 70 steps, rewards -16745
+[32m[11-16 20:20:17 MainThread @dqn_train.py:98][0m train_episode over 70 steps, rewards -11745 for enemy
+[32m[11-16 20:20:17 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7507
+[32m[11-16 20:20:17 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:20:17 MainThread @dqn_train.py:97][0m train_episode over 20 steps, rewards -8326
+[32m[11-16 20:20:17 MainThread @dqn_train.py:98][0m train_episode over 20 steps, rewards -3325 for enemy
+[32m[11-16 20:20:18 MainThread @dqn_train.py:97][0m train_episode over 22 steps, rewards -8681
+[32m[11-16 20:20:18 MainThread @dqn_train.py:98][0m train_episode over 22 steps, rewards -3682 for enemy
+[32m[11-16 20:20:20 MainThread @dqn_train.py:97][0m train_episode over 137 steps, rewards -27908
+[32m[11-16 20:20:20 MainThread @dqn_train.py:98][0m train_episode over 137 steps, rewards -22907 for enemy
+[32m[11-16 20:20:21 MainThread @dqn_train.py:97][0m train_episode over 25 steps, rewards -9147
+[32m[11-16 20:20:21 MainThread @dqn_train.py:98][0m train_episode over 25 steps, rewards -4146 for enemy
+[32m[11-16 20:20:21 MainThread @dqn_train.py:97][0m train_episode over 28 steps, rewards -9691
+[32m[11-16 20:20:21 MainThread @dqn_train.py:98][0m train_episode over 28 steps, rewards -4692 for enemy
+[32m[11-16 20:20:21 MainThread @dqn_train.py:97][0m train_episode over 24 steps, rewards -9019
+[32m[11-16 20:20:21 MainThread @dqn_train.py:98][0m train_episode over 24 steps, rewards -4020 for enemy
+[32m[11-16 20:20:22 MainThread @dqn_train.py:97][0m train_episode over 35 steps, rewards -10851
+[32m[11-16 20:20:22 MainThread @dqn_train.py:98][0m train_episode over 35 steps, rewards -5853 for enemy
+[32m[11-16 20:20:26 MainThread @dqn_train.py:97][0m train_episode over 207 steps, rewards -38415
+[32m[11-16 20:20:26 MainThread @dqn_train.py:98][0m train_episode over 207 steps, rewards -33410 for enemy
+[32m[11-16 20:20:28 MainThread @dqn_train.py:97][0m train_episode over 132 steps, rewards -27074
+[32m[11-16 20:20:28 MainThread @dqn_train.py:98][0m train_episode over 132 steps, rewards -22073 for enemy
+[32m[11-16 20:20:29 MainThread @dqn_train.py:97][0m train_episode over 77 steps, rewards -17919
+[32m[11-16 20:20:29 MainThread @dqn_train.py:98][0m train_episode over 77 steps, rewards -12921 for enemy
+[32m[11-16 20:20:45 MainThread @dqn_train.py:67][0m Total steps 1035, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:20:45 MainThread @dqn_train.py:68][0m Total steps 1035, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:20:49 MainThread @dqn_train.py:97][0m train_episode over 195 steps, rewards -37128
+[32m[11-16 20:20:49 MainThread @dqn_train.py:98][0m train_episode over 195 steps, rewards -32122 for enemy
+[32m[11-16 20:20:50 MainThread @dqn_train.py:97][0m train_episode over 78 steps, rewards -17966
+[32m[11-16 20:20:50 MainThread @dqn_train.py:98][0m train_episode over 78 steps, rewards -12963 for enemy
+[32m[11-16 20:20:50 MainThread @dqn_train.py:97][0m train_episode over 18 steps, rewards -8012
+[32m[11-16 20:20:50 MainThread @dqn_train.py:98][0m train_episode over 18 steps, rewards -3013 for enemy
+[32m[11-16 20:20:51 MainThread @dqn_train.py:97][0m train_episode over 33 steps, rewards -10526
+[32m[11-16 20:20:51 MainThread @dqn_train.py:98][0m train_episode over 33 steps, rewards -5527 for enemy
+[32m[11-16 20:20:52 MainThread @dqn_train.py:97][0m train_episode over 73 steps, rewards -17158
+[32m[11-16 20:20:52 MainThread @dqn_train.py:98][0m train_episode over 73 steps, rewards -12159 for enemy
+[32m[11-16 20:20:53 MainThread @dqn_train.py:97][0m train_episode over 36 steps, rewards -10984
+[32m[11-16 20:20:53 MainThread @dqn_train.py:98][0m train_episode over 36 steps, rewards -5988 for enemy
+[32m[11-16 20:20:55 MainThread @dqn_train.py:97][0m train_episode over 161 steps, rewards -32009
+[32m[11-16 20:20:55 MainThread @dqn_train.py:98][0m train_episode over 161 steps, rewards -27011 for enemy
+[32m[11-16 20:20:56 MainThread @dqn_train.py:97][0m train_episode over 32 steps, rewards -10357
+[32m[11-16 20:20:56 MainThread @dqn_train.py:98][0m train_episode over 32 steps, rewards -5358 for enemy
+[32m[11-16 20:20:57 MainThread @dqn_train.py:97][0m train_episode over 73 steps, rewards -17192
+[32m[11-16 20:20:57 MainThread @dqn_train.py:98][0m train_episode over 73 steps, rewards -12194 for enemy
+[32m[11-16 20:20:57 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7675
+[32m[11-16 20:20:57 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2676 for enemy
+[32m[11-16 20:21:00 MainThread @dqn_train.py:97][0m train_episode over 138 steps, rewards -27549
+[32m[11-16 20:21:00 MainThread @dqn_train.py:98][0m train_episode over 138 steps, rewards -22552 for enemy
+[32m[11-16 20:21:02 MainThread @dqn_train.py:97][0m train_episode over 147 steps, rewards -29481
+[32m[11-16 20:21:02 MainThread @dqn_train.py:98][0m train_episode over 147 steps, rewards -24480 for enemy
+[32m[11-16 20:21:19 MainThread @dqn_train.py:67][0m Total steps 2035, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:21:19 MainThread @dqn_train.py:68][0m Total steps 2035, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:21:26 MainThread @dqn_train.py:97][0m train_episode over 379 steps, rewards -65021
+[32m[11-16 20:21:26 MainThread @dqn_train.py:98][0m train_episode over 379 steps, rewards -60015 for enemy
+[32m[11-16 20:21:26 MainThread @dqn_train.py:97][0m train_episode over 17 steps, rewards -7842
+[32m[11-16 20:21:26 MainThread @dqn_train.py:98][0m train_episode over 17 steps, rewards -2843 for enemy
+[32m[11-16 20:21:26 MainThread @dqn_train.py:97][0m train_episode over 30 steps, rewards -10023
+[32m[11-16 20:21:26 MainThread @dqn_train.py:98][0m train_episode over 30 steps, rewards -5024 for enemy
+[32m[11-16 20:21:30 MainThread @dqn_train.py:97][0m train_episode over 193 steps, rewards -36963
+[32m[11-16 20:21:30 MainThread @dqn_train.py:98][0m train_episode over 193 steps, rewards -31961 for enemy
+[32m[11-16 20:21:31 MainThread @dqn_train.py:97][0m train_episode over 87 steps, rewards -19490
+[32m[11-16 20:21:31 MainThread @dqn_train.py:98][0m train_episode over 87 steps, rewards -14488 for enemy
+[32m[11-16 20:21:33 MainThread @dqn_train.py:97][0m train_episode over 138 steps, rewards -27837
+[32m[11-16 20:21:33 MainThread @dqn_train.py:98][0m train_episode over 138 steps, rewards -22838 for enemy
+[32m[11-16 20:21:35 MainThread @dqn_train.py:97][0m train_episode over 72 steps, rewards -17057
+[32m[11-16 20:21:35 MainThread @dqn_train.py:98][0m train_episode over 72 steps, rewards -12057 for enemy
+[32m[11-16 20:21:35 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7676
+[32m[11-16 20:21:35 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2677 for enemy
+[32m[11-16 20:21:35 MainThread @dqn_train.py:97][0m train_episode over 20 steps, rewards -13331
+[32m[11-16 20:21:35 MainThread @dqn_train.py:98][0m train_episode over 20 steps, rewards -3331 for enemy
+[32m[11-16 20:21:38 MainThread @dqn_train.py:97][0m train_episode over 189 steps, rewards -35751
+[32m[11-16 20:21:38 MainThread @dqn_train.py:98][0m train_episode over 189 steps, rewards -30747 for enemy
+[32m[11-16 20:21:55 MainThread @dqn_train.py:67][0m Total steps 3176, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:21:55 MainThread @dqn_train.py:68][0m Total steps 3176, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:21:56 MainThread @dqn_train.py:97][0m train_episode over 75 steps, rewards -17562
+[32m[11-16 20:21:56 MainThread @dqn_train.py:98][0m train_episode over 75 steps, rewards -12561 for enemy
+[32m[11-16 20:21:57 MainThread @dqn_train.py:97][0m train_episode over 89 steps, rewards -19814
+[32m[11-16 20:21:57 MainThread @dqn_train.py:98][0m train_episode over 89 steps, rewards -14813 for enemy
+[32m[11-16 20:21:58 MainThread @dqn_train.py:97][0m train_episode over 24 steps, rewards -9020
+[32m[11-16 20:21:58 MainThread @dqn_train.py:98][0m train_episode over 24 steps, rewards -4021 for enemy
+[32m[11-16 20:22:00 MainThread @dqn_train.py:97][0m train_episode over 132 steps, rewards -27055
+[32m[11-16 20:22:00 MainThread @dqn_train.py:98][0m train_episode over 132 steps, rewards -22051 for enemy
+[32m[11-16 20:22:02 MainThread @dqn_train.py:97][0m train_episode over 146 steps, rewards -29228
+[32m[11-16 20:22:02 MainThread @dqn_train.py:98][0m train_episode over 146 steps, rewards -24227 for enemy
+[32m[11-16 20:22:03 MainThread @dqn_train.py:97][0m train_episode over 17 steps, rewards -12842
+[32m[11-16 20:22:03 MainThread @dqn_train.py:98][0m train_episode over 17 steps, rewards -2843 for enemy
+[32m[11-16 20:22:04 MainThread @dqn_train.py:97][0m train_episode over 100 steps, rewards -21611
+[32m[11-16 20:22:04 MainThread @dqn_train.py:98][0m train_episode over 100 steps, rewards -16608 for enemy
+[32m[11-16 20:22:08 MainThread @dqn_train.py:97][0m train_episode over 239 steps, rewards -44073
+[32m[11-16 20:22:08 MainThread @dqn_train.py:98][0m train_episode over 239 steps, rewards -39075 for enemy
+[32m[11-16 20:22:11 MainThread @dqn_train.py:97][0m train_episode over 139 steps, rewards -28148
+[32m[11-16 20:22:11 MainThread @dqn_train.py:98][0m train_episode over 139 steps, rewards -23153 for enemy
+[32m[11-16 20:22:27 MainThread @dqn_train.py:67][0m Total steps 4137, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:22:27 MainThread @dqn_train.py:68][0m Total steps 4137, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:22:28 MainThread @dqn_train.py:97][0m train_episode over 84 steps, rewards -18942
+[32m[11-16 20:22:28 MainThread @dqn_train.py:98][0m train_episode over 84 steps, rewards -13943 for enemy
+[32m[11-16 20:22:28 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7507
+[32m[11-16 20:22:28 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:22:29 MainThread @dqn_train.py:97][0m train_episode over 26 steps, rewards -9354
+[32m[11-16 20:22:29 MainThread @dqn_train.py:98][0m train_episode over 26 steps, rewards -4355 for enemy
+[32m[11-16 20:22:29 MainThread @dqn_train.py:97][0m train_episode over 23 steps, rewards -8850
+[32m[11-16 20:22:29 MainThread @dqn_train.py:98][0m train_episode over 23 steps, rewards -3851 for enemy
+[32m[11-16 20:22:30 MainThread @dqn_train.py:97][0m train_episode over 18 steps, rewards -8011
+[32m[11-16 20:22:30 MainThread @dqn_train.py:98][0m train_episode over 18 steps, rewards -3012 for enemy
+[32m[11-16 20:22:33 MainThread @dqn_train.py:97][0m train_episode over 197 steps, rewards -37327
+[32m[11-16 20:22:33 MainThread @dqn_train.py:98][0m train_episode over 197 steps, rewards -32323 for enemy
+[32m[11-16 20:22:33 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -12508
+[32m[11-16 20:22:33 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:22:33 MainThread @dqn_train.py:97][0m train_episode over 17 steps, rewards -7840
+[32m[11-16 20:22:33 MainThread @dqn_train.py:98][0m train_episode over 17 steps, rewards -2840 for enemy
+[32m[11-16 20:22:37 MainThread @dqn_train.py:97][0m train_episode over 199 steps, rewards -38195
+[32m[11-16 20:22:37 MainThread @dqn_train.py:98][0m train_episode over 199 steps, rewards -33193 for enemy
+[32m[11-16 20:22:37 MainThread @dqn_train.py:97][0m train_episode over 27 steps, rewards -9486
+[32m[11-16 20:22:37 MainThread @dqn_train.py:98][0m train_episode over 27 steps, rewards -4485 for enemy
+[32m[11-16 20:22:38 MainThread @dqn_train.py:97][0m train_episode over 26 steps, rewards -9326
+[32m[11-16 20:22:38 MainThread @dqn_train.py:98][0m train_episode over 26 steps, rewards -4326 for enemy
+[32m[11-16 20:22:39 MainThread @dqn_train.py:97][0m train_episode over 77 steps, rewards -17693
+[32m[11-16 20:22:39 MainThread @dqn_train.py:98][0m train_episode over 77 steps, rewards -12691 for enemy
+[32m[11-16 20:22:40 MainThread @dqn_train.py:97][0m train_episode over 81 steps, rewards -18530
+[32m[11-16 20:22:40 MainThread @dqn_train.py:98][0m train_episode over 81 steps, rewards -13531 for enemy
+[32m[11-16 20:22:41 MainThread @dqn_train.py:97][0m train_episode over 19 steps, rewards -8177
+[32m[11-16 20:22:41 MainThread @dqn_train.py:98][0m train_episode over 19 steps, rewards -3178 for enemy
+[32m[11-16 20:22:41 MainThread @dqn_train.py:97][0m train_episode over 31 steps, rewards -10186
+[32m[11-16 20:22:41 MainThread @dqn_train.py:98][0m train_episode over 31 steps, rewards -5187 for enemy
+[32m[11-16 20:22:44 MainThread @dqn_train.py:97][0m train_episode over 142 steps, rewards -28742
+[32m[11-16 20:22:44 MainThread @dqn_train.py:98][0m train_episode over 142 steps, rewards -23741 for enemy
+[32m[11-16 20:23:00 MainThread @dqn_train.py:67][0m Total steps 5134, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:23:00 MainThread @dqn_train.py:68][0m Total steps 5134, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:23:02 MainThread @dqn_train.py:97][0m train_episode over 137 steps, rewards -27793
+[32m[11-16 20:23:02 MainThread @dqn_train.py:98][0m train_episode over 137 steps, rewards -22791 for enemy
+[32m[11-16 20:23:04 MainThread @dqn_train.py:97][0m train_episode over 84 steps, rewards -19011
+[32m[11-16 20:23:04 MainThread @dqn_train.py:98][0m train_episode over 84 steps, rewards -14013 for enemy
+[32m[11-16 20:23:04 MainThread @dqn_train.py:97][0m train_episode over 24 steps, rewards -8996
+[32m[11-16 20:23:04 MainThread @dqn_train.py:98][0m train_episode over 24 steps, rewards -3996 for enemy
+[32m[11-16 20:23:04 MainThread @dqn_train.py:97][0m train_episode over 22 steps, rewards -8678
+[32m[11-16 20:23:04 MainThread @dqn_train.py:98][0m train_episode over 22 steps, rewards -3680 for enemy
+[32m[11-16 20:23:05 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7675
+[32m[11-16 20:23:05 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2676 for enemy
+[32m[11-16 20:23:09 MainThread @dqn_train.py:97][0m train_episode over 288 steps, rewards -50811
+[32m[11-16 20:23:09 MainThread @dqn_train.py:98][0m train_episode over 288 steps, rewards -45807 for enemy
+[32m[11-16 20:23:11 MainThread @dqn_train.py:97][0m train_episode over 78 steps, rewards -18004
+[32m[11-16 20:23:11 MainThread @dqn_train.py:98][0m train_episode over 78 steps, rewards -13005 for enemy
+[32m[11-16 20:23:12 MainThread @dqn_train.py:97][0m train_episode over 75 steps, rewards -22543
+[32m[11-16 20:23:12 MainThread @dqn_train.py:98][0m train_episode over 75 steps, rewards -12542 for enemy
+[32m[11-16 20:23:12 MainThread @dqn_train.py:97][0m train_episode over 30 steps, rewards -10003
+[32m[11-16 20:23:12 MainThread @dqn_train.py:98][0m train_episode over 30 steps, rewards -5006 for enemy
+[32m[11-16 20:23:15 MainThread @dqn_train.py:97][0m train_episode over 149 steps, rewards -29462
+[32m[11-16 20:23:15 MainThread @dqn_train.py:98][0m train_episode over 149 steps, rewards -24461 for enemy
+[32m[11-16 20:23:31 MainThread @dqn_train.py:67][0m Total steps 6037, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:23:31 MainThread @dqn_train.py:68][0m Total steps 6037, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:23:32 MainThread @dqn_train.py:97][0m train_episode over 76 steps, rewards -17724
+[32m[11-16 20:23:32 MainThread @dqn_train.py:98][0m train_episode over 76 steps, rewards -12725 for enemy
+[32m[11-16 20:23:35 MainThread @dqn_train.py:97][0m train_episode over 143 steps, rewards -28246
+[32m[11-16 20:23:35 MainThread @dqn_train.py:98][0m train_episode over 143 steps, rewards -23238 for enemy
+[32m[11-16 20:23:35 MainThread @dqn_train.py:97][0m train_episode over 42 steps, rewards -12004
+[32m[11-16 20:23:35 MainThread @dqn_train.py:98][0m train_episode over 42 steps, rewards -7006 for enemy
+[32m[11-16 20:23:36 MainThread @dqn_train.py:97][0m train_episode over 35 steps, rewards -10830
+[32m[11-16 20:23:36 MainThread @dqn_train.py:98][0m train_episode over 35 steps, rewards -5832 for enemy
+[32m[11-16 20:23:37 MainThread @dqn_train.py:97][0m train_episode over 71 steps, rewards -16905
+[32m[11-16 20:23:37 MainThread @dqn_train.py:98][0m train_episode over 71 steps, rewards -11905 for enemy
+[32m[11-16 20:23:40 MainThread @dqn_train.py:97][0m train_episode over 156 steps, rewards -30718
+[32m[11-16 20:23:40 MainThread @dqn_train.py:98][0m train_episode over 156 steps, rewards -25714 for enemy
+[32m[11-16 20:23:40 MainThread @dqn_train.py:97][0m train_episode over 18 steps, rewards -8009
+[32m[11-16 20:23:40 MainThread @dqn_train.py:98][0m train_episode over 18 steps, rewards -3010 for enemy
+[32m[11-16 20:23:42 MainThread @dqn_train.py:97][0m train_episode over 81 steps, rewards -18580
+[32m[11-16 20:23:42 MainThread @dqn_train.py:98][0m train_episode over 81 steps, rewards -13582 for enemy
+[32m[11-16 20:23:45 MainThread @dqn_train.py:97][0m train_episode over 188 steps, rewards -35306
+[32m[11-16 20:23:45 MainThread @dqn_train.py:98][0m train_episode over 188 steps, rewards -30298 for enemy
+[32m[11-16 20:23:45 MainThread @dqn_train.py:97][0m train_episode over 19 steps, rewards -8176
+[32m[11-16 20:23:45 MainThread @dqn_train.py:98][0m train_episode over 19 steps, rewards -3177 for enemy
+[32m[11-16 20:23:52 MainThread @dqn_train.py:97][0m train_episode over 440 steps, rewards -72179
+[32m[11-16 20:23:52 MainThread @dqn_train.py:98][0m train_episode over 440 steps, rewards -67174 for enemy
+[32m[11-16 20:24:09 MainThread @dqn_train.py:67][0m Total steps 7306, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:24:09 MainThread @dqn_train.py:68][0m Total steps 7306, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:24:09 MainThread @dqn_train.py:97][0m train_episode over 32 steps, rewards -10335
+[32m[11-16 20:24:09 MainThread @dqn_train.py:98][0m train_episode over 32 steps, rewards -5337 for enemy
+[32m[11-16 20:24:10 MainThread @dqn_train.py:97][0m train_episode over 38 steps, rewards -11335
+[32m[11-16 20:24:10 MainThread @dqn_train.py:98][0m train_episode over 38 steps, rewards -6337 for enemy
+[32m[11-16 20:24:14 MainThread @dqn_train.py:97][0m train_episode over 251 steps, rewards -44752
+[32m[11-16 20:24:14 MainThread @dqn_train.py:98][0m train_episode over 251 steps, rewards -39755 for enemy
+[32m[11-16 20:24:15 MainThread @dqn_train.py:97][0m train_episode over 81 steps, rewards -18570
+[32m[11-16 20:24:15 MainThread @dqn_train.py:98][0m train_episode over 81 steps, rewards -13572 for enemy
+[32m[11-16 20:24:18 MainThread @dqn_train.py:97][0m train_episode over 148 steps, rewards -29197
+[32m[11-16 20:24:18 MainThread @dqn_train.py:98][0m train_episode over 148 steps, rewards -24192 for enemy
+[32m[11-16 20:24:20 MainThread @dqn_train.py:97][0m train_episode over 135 steps, rewards -27361
+[32m[11-16 20:24:20 MainThread @dqn_train.py:98][0m train_episode over 135 steps, rewards -22363 for enemy
+[32m[11-16 20:24:22 MainThread @dqn_train.py:97][0m train_episode over 133 steps, rewards -26849
+[32m[11-16 20:24:22 MainThread @dqn_train.py:98][0m train_episode over 133 steps, rewards -21846 for enemy
+[32m[11-16 20:24:39 MainThread @dqn_train.py:67][0m Total steps 8124, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:24:39 MainThread @dqn_train.py:68][0m Total steps 8124, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:24:39 MainThread @dqn_train.py:97][0m train_episode over 31 steps, rewards -10184
+[32m[11-16 20:24:39 MainThread @dqn_train.py:98][0m train_episode over 31 steps, rewards -5185 for enemy
+[32m[11-16 20:24:39 MainThread @dqn_train.py:97][0m train_episode over 24 steps, rewards -9014
+[32m[11-16 20:24:39 MainThread @dqn_train.py:98][0m train_episode over 24 steps, rewards -4015 for enemy
+[32m[11-16 20:24:42 MainThread @dqn_train.py:97][0m train_episode over 176 steps, rewards -33725
+[32m[11-16 20:24:42 MainThread @dqn_train.py:98][0m train_episode over 176 steps, rewards -28719 for enemy
+[32m[11-16 20:24:43 MainThread @dqn_train.py:97][0m train_episode over 23 steps, rewards -8844
+[32m[11-16 20:24:43 MainThread @dqn_train.py:98][0m train_episode over 23 steps, rewards -3845 for enemy
+[32m[11-16 20:24:46 MainThread @dqn_train.py:97][0m train_episode over 206 steps, rewards -38611
+[32m[11-16 20:24:46 MainThread @dqn_train.py:98][0m train_episode over 206 steps, rewards -33606 for enemy
+[32m[11-16 20:24:47 MainThread @dqn_train.py:97][0m train_episode over 27 steps, rewards -9521
+[32m[11-16 20:24:47 MainThread @dqn_train.py:98][0m train_episode over 27 steps, rewards -4522 for enemy
+[32m[11-16 20:24:47 MainThread @dqn_train.py:97][0m train_episode over 23 steps, rewards -8841
+[32m[11-16 20:24:47 MainThread @dqn_train.py:98][0m train_episode over 23 steps, rewards -3841 for enemy
+[32m[11-16 20:24:47 MainThread @dqn_train.py:97][0m train_episode over 19 steps, rewards -8177
+[32m[11-16 20:24:47 MainThread @dqn_train.py:98][0m train_episode over 19 steps, rewards -3178 for enemy
+[32m[11-16 20:24:48 MainThread @dqn_train.py:97][0m train_episode over 23 steps, rewards -8845
+[32m[11-16 20:24:48 MainThread @dqn_train.py:98][0m train_episode over 23 steps, rewards -3846 for enemy
+[32m[11-16 20:24:48 MainThread @dqn_train.py:97][0m train_episode over 40 steps, rewards -11691
+[32m[11-16 20:24:48 MainThread @dqn_train.py:98][0m train_episode over 40 steps, rewards -6692 for enemy
+[32m[11-16 20:24:49 MainThread @dqn_train.py:97][0m train_episode over 18 steps, rewards -8010
+[32m[11-16 20:24:49 MainThread @dqn_train.py:98][0m train_episode over 18 steps, rewards -3011 for enemy
+[32m[11-16 20:24:50 MainThread @dqn_train.py:97][0m train_episode over 71 steps, rewards -16770
+[32m[11-16 20:24:50 MainThread @dqn_train.py:98][0m train_episode over 71 steps, rewards -11768 for enemy
+[32m[11-16 20:24:53 MainThread @dqn_train.py:97][0m train_episode over 154 steps, rewards -30071
+[32m[11-16 20:24:53 MainThread @dqn_train.py:98][0m train_episode over 154 steps, rewards -25075 for enemy
+[32m[11-16 20:24:53 MainThread @dqn_train.py:97][0m train_episode over 39 steps, rewards -11462
+[32m[11-16 20:24:53 MainThread @dqn_train.py:98][0m train_episode over 39 steps, rewards -6461 for enemy
+[32m[11-16 20:24:57 MainThread @dqn_train.py:97][0m train_episode over 245 steps, rewards -44542
+[32m[11-16 20:24:57 MainThread @dqn_train.py:98][0m train_episode over 245 steps, rewards -39544 for enemy
+[32m[11-16 20:25:14 MainThread @dqn_train.py:67][0m Total steps 9243, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:25:14 MainThread @dqn_train.py:68][0m Total steps 9243, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:25:18 MainThread @dqn_train.py:97][0m train_episode over 260 steps, rewards -47062
+[32m[11-16 20:25:18 MainThread @dqn_train.py:98][0m train_episode over 260 steps, rewards -42064 for enemy
+[32m[11-16 20:25:19 MainThread @dqn_train.py:97][0m train_episode over 77 steps, rewards -17813
+[32m[11-16 20:25:19 MainThread @dqn_train.py:98][0m train_episode over 77 steps, rewards -12810 for enemy
+[32m[11-16 20:25:22 MainThread @dqn_train.py:97][0m train_episode over 175 steps, rewards -33491
+[32m[11-16 20:25:22 MainThread @dqn_train.py:98][0m train_episode over 175 steps, rewards -28483 for enemy
+[32m[11-16 20:25:24 MainThread @dqn_train.py:97][0m train_episode over 138 steps, rewards -32629
+[32m[11-16 20:25:24 MainThread @dqn_train.py:98][0m train_episode over 138 steps, rewards -22622 for enemy
+[32m[11-16 20:25:26 MainThread @dqn_train.py:97][0m train_episode over 127 steps, rewards -25768
+[32m[11-16 20:25:26 MainThread @dqn_train.py:98][0m train_episode over 127 steps, rewards -20768 for enemy
+[32m[11-16 20:25:43 MainThread @dqn_train.py:67][0m Total steps 10020, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:25:43 MainThread @dqn_train.py:68][0m Total steps 10020, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:25:44 MainThread @dqn_train.py:97][0m train_episode over 78 steps, rewards -17985
+[32m[11-16 20:25:44 MainThread @dqn_train.py:98][0m train_episode over 78 steps, rewards -12985 for enemy
+[32m[11-16 20:25:44 MainThread @dqn_train.py:97][0m train_episode over 17 steps, rewards -7844
+[32m[11-16 20:25:44 MainThread @dqn_train.py:98][0m train_episode over 17 steps, rewards -2845 for enemy
+[32m[11-16 20:25:45 MainThread @dqn_train.py:97][0m train_episode over 34 steps, rewards -10687
+[32m[11-16 20:25:45 MainThread @dqn_train.py:98][0m train_episode over 34 steps, rewards -5688 for enemy
+[32m[11-16 20:25:49 MainThread @dqn_train.py:97][0m train_episode over 223 steps, rewards -40035
+[32m[11-16 20:25:49 MainThread @dqn_train.py:98][0m train_episode over 223 steps, rewards -35029 for enemy
+[32m[11-16 20:25:50 MainThread @dqn_train.py:97][0m train_episode over 84 steps, rewards -19011
+[32m[11-16 20:25:50 MainThread @dqn_train.py:98][0m train_episode over 84 steps, rewards -14011 for enemy
+[32m[11-16 20:25:51 MainThread @dqn_train.py:97][0m train_episode over 25 steps, rewards -9188
+[32m[11-16 20:25:51 MainThread @dqn_train.py:98][0m train_episode over 25 steps, rewards -4189 for enemy
+[32m[11-16 20:25:53 MainThread @dqn_train.py:97][0m train_episode over 132 steps, rewards -27144
+[32m[11-16 20:25:53 MainThread @dqn_train.py:98][0m train_episode over 132 steps, rewards -22145 for enemy
+[32m[11-16 20:25:53 MainThread @dqn_train.py:97][0m train_episode over 17 steps, rewards -7844
+[32m[11-16 20:25:53 MainThread @dqn_train.py:98][0m train_episode over 17 steps, rewards -2845 for enemy
+[32m[11-16 20:25:54 MainThread @dqn_train.py:97][0m train_episode over 70 steps, rewards -16517
+[32m[11-16 20:25:54 MainThread @dqn_train.py:98][0m train_episode over 70 steps, rewards -11512 for enemy
+[32m[11-16 20:25:55 MainThread @dqn_train.py:97][0m train_episode over 27 steps, rewards -9518
+[32m[11-16 20:25:55 MainThread @dqn_train.py:98][0m train_episode over 27 steps, rewards -4519 for enemy
+[32m[11-16 20:26:00 MainThread @dqn_train.py:97][0m train_episode over 300 steps, rewards -52637
+[32m[11-16 20:26:00 MainThread @dqn_train.py:98][0m train_episode over 300 steps, rewards -47635 for enemy
+[32m[11-16 20:26:16 MainThread @dqn_train.py:67][0m Total steps 11027, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:26:16 MainThread @dqn_train.py:68][0m Total steps 11027, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:26:16 MainThread @dqn_train.py:97][0m train_episode over 17 steps, rewards -7843
+[32m[11-16 20:26:16 MainThread @dqn_train.py:98][0m train_episode over 17 steps, rewards -2845 for enemy
+[32m[11-16 20:26:18 MainThread @dqn_train.py:97][0m train_episode over 88 steps, rewards -19642
+[32m[11-16 20:26:18 MainThread @dqn_train.py:98][0m train_episode over 88 steps, rewards -14644 for enemy
+[32m[11-16 20:26:19 MainThread @dqn_train.py:97][0m train_episode over 91 steps, rewards -20122
+[32m[11-16 20:26:19 MainThread @dqn_train.py:98][0m train_episode over 91 steps, rewards -15119 for enemy
+[32m[11-16 20:26:21 MainThread @dqn_train.py:97][0m train_episode over 119 steps, rewards -24805
+[32m[11-16 20:26:21 MainThread @dqn_train.py:98][0m train_episode over 119 steps, rewards -19807 for enemy
+[32m[11-16 20:26:23 MainThread @dqn_train.py:97][0m train_episode over 129 steps, rewards -26178
+[32m[11-16 20:26:23 MainThread @dqn_train.py:98][0m train_episode over 129 steps, rewards -21175 for enemy
+[32m[11-16 20:26:26 MainThread @dqn_train.py:97][0m train_episode over 125 steps, rewards -25731
+[32m[11-16 20:26:26 MainThread @dqn_train.py:98][0m train_episode over 125 steps, rewards -20731 for enemy
+[32m[11-16 20:26:26 MainThread @dqn_train.py:97][0m train_episode over 37 steps, rewards -11170
+[32m[11-16 20:26:26 MainThread @dqn_train.py:98][0m train_episode over 37 steps, rewards -6170 for enemy
+[32m[11-16 20:26:29 MainThread @dqn_train.py:97][0m train_episode over 182 steps, rewards -34846
+[32m[11-16 20:26:29 MainThread @dqn_train.py:98][0m train_episode over 182 steps, rewards -29848 for enemy
+[32m[11-16 20:26:30 MainThread @dqn_train.py:97][0m train_episode over 20 steps, rewards -8348
+[32m[11-16 20:26:30 MainThread @dqn_train.py:98][0m train_episode over 20 steps, rewards -3349 for enemy
+[32m[11-16 20:26:30 MainThread @dqn_train.py:97][0m train_episode over 23 steps, rewards -8850
+[32m[11-16 20:26:30 MainThread @dqn_train.py:98][0m train_episode over 23 steps, rewards -3851 for enemy
+[32m[11-16 20:26:34 MainThread @dqn_train.py:97][0m train_episode over 217 steps, rewards -40193
+[32m[11-16 20:26:34 MainThread @dqn_train.py:98][0m train_episode over 217 steps, rewards -35183 for enemy
+[32m[11-16 20:26:50 MainThread @dqn_train.py:67][0m Total steps 12075, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:26:50 MainThread @dqn_train.py:68][0m Total steps 12075, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:26:50 MainThread @dqn_train.py:97][0m train_episode over 31 steps, rewards -10196
+[32m[11-16 20:26:50 MainThread @dqn_train.py:98][0m train_episode over 31 steps, rewards -5197 for enemy
+[32m[11-16 20:26:51 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7675
+[32m[11-16 20:26:51 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2676 for enemy
+[32m[11-16 20:26:53 MainThread @dqn_train.py:97][0m train_episode over 162 steps, rewards -31496
+[32m[11-16 20:26:53 MainThread @dqn_train.py:98][0m train_episode over 162 steps, rewards -26496 for enemy
+[32m[11-16 20:26:54 MainThread @dqn_train.py:97][0m train_episode over 32 steps, rewards -10273
+[32m[11-16 20:26:54 MainThread @dqn_train.py:98][0m train_episode over 32 steps, rewards -5270 for enemy
+[32m[11-16 20:26:56 MainThread @dqn_train.py:97][0m train_episode over 91 steps, rewards -20154
+[32m[11-16 20:26:56 MainThread @dqn_train.py:98][0m train_episode over 91 steps, rewards -15153 for enemy
+[32m[11-16 20:26:56 MainThread @dqn_train.py:97][0m train_episode over 24 steps, rewards -9019
+[32m[11-16 20:26:56 MainThread @dqn_train.py:98][0m train_episode over 24 steps, rewards -4020 for enemy
+[32m[11-16 20:26:58 MainThread @dqn_train.py:97][0m train_episode over 140 steps, rewards -28112
+[32m[11-16 20:26:58 MainThread @dqn_train.py:98][0m train_episode over 140 steps, rewards -23114 for enemy
+[32m[11-16 20:26:59 MainThread @dqn_train.py:97][0m train_episode over 18 steps, rewards -13012
+[32m[11-16 20:26:59 MainThread @dqn_train.py:98][0m train_episode over 18 steps, rewards -3013 for enemy
+[32m[11-16 20:26:59 MainThread @dqn_train.py:97][0m train_episode over 29 steps, rewards -9849
+[32m[11-16 20:26:59 MainThread @dqn_train.py:98][0m train_episode over 29 steps, rewards -4850 for enemy
+[32m[11-16 20:27:01 MainThread @dqn_train.py:97][0m train_episode over 81 steps, rewards -18580
+[32m[11-16 20:27:01 MainThread @dqn_train.py:98][0m train_episode over 81 steps, rewards -13582 for enemy
+[32m[11-16 20:27:01 MainThread @dqn_train.py:97][0m train_episode over 43 steps, rewards -12146
+[32m[11-16 20:27:01 MainThread @dqn_train.py:98][0m train_episode over 43 steps, rewards -7149 for enemy
+[32m[11-16 20:27:02 MainThread @dqn_train.py:97][0m train_episode over 19 steps, rewards -8175
+[32m[11-16 20:27:02 MainThread @dqn_train.py:98][0m train_episode over 19 steps, rewards -3177 for enemy
+[32m[11-16 20:27:03 MainThread @dqn_train.py:97][0m train_episode over 106 steps, rewards -22575
+[32m[11-16 20:27:03 MainThread @dqn_train.py:98][0m train_episode over 106 steps, rewards -17576 for enemy
+[32m[11-16 20:27:04 MainThread @dqn_train.py:97][0m train_episode over 29 steps, rewards -9834
+[32m[11-16 20:27:04 MainThread @dqn_train.py:98][0m train_episode over 29 steps, rewards -4836 for enemy
+[32m[11-16 20:27:04 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7676
+[32m[11-16 20:27:04 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2677 for enemy
+[32m[11-16 20:27:05 MainThread @dqn_train.py:97][0m train_episode over 22 steps, rewards -8677
+[32m[11-16 20:27:05 MainThread @dqn_train.py:98][0m train_episode over 22 steps, rewards -3678 for enemy
+[32m[11-16 20:27:05 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7507
+[32m[11-16 20:27:05 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:27:05 MainThread @dqn_train.py:97][0m train_episode over 17 steps, rewards -7843
+[32m[11-16 20:27:05 MainThread @dqn_train.py:98][0m train_episode over 17 steps, rewards -2844 for enemy
+[32m[11-16 20:27:06 MainThread @dqn_train.py:97][0m train_episode over 69 steps, rewards -16387
+[32m[11-16 20:27:06 MainThread @dqn_train.py:98][0m train_episode over 69 steps, rewards -11383 for enemy
+[32m[11-16 20:27:23 MainThread @dqn_train.py:67][0m Total steps 13035, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:27:23 MainThread @dqn_train.py:68][0m Total steps 13035, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:27:23 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7675
+[32m[11-16 20:27:23 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2677 for enemy
+[32m[11-16 20:27:23 MainThread @dqn_train.py:97][0m train_episode over 30 steps, rewards -10004
+[32m[11-16 20:27:23 MainThread @dqn_train.py:98][0m train_episode over 30 steps, rewards -5006 for enemy
+[32m[11-16 20:27:25 MainThread @dqn_train.py:97][0m train_episode over 78 steps, rewards -17954
+[32m[11-16 20:27:25 MainThread @dqn_train.py:98][0m train_episode over 78 steps, rewards -12955 for enemy
+[32m[11-16 20:27:25 MainThread @dqn_train.py:97][0m train_episode over 19 steps, rewards -8178
+[32m[11-16 20:27:25 MainThread @dqn_train.py:98][0m train_episode over 19 steps, rewards -3179 for enemy
+[32m[11-16 20:27:27 MainThread @dqn_train.py:97][0m train_episode over 85 steps, rewards -19213
+[32m[11-16 20:27:27 MainThread @dqn_train.py:98][0m train_episode over 85 steps, rewards -14214 for enemy
+[32m[11-16 20:27:27 MainThread @dqn_train.py:97][0m train_episode over 35 steps, rewards -10854
+[32m[11-16 20:27:27 MainThread @dqn_train.py:98][0m train_episode over 35 steps, rewards -5855 for enemy
+[32m[11-16 20:27:29 MainThread @dqn_train.py:97][0m train_episode over 123 steps, rewards -25570
+[32m[11-16 20:27:29 MainThread @dqn_train.py:98][0m train_episode over 123 steps, rewards -20569 for enemy
+[32m[11-16 20:27:33 MainThread @dqn_train.py:97][0m train_episode over 253 steps, rewards -46686
+[32m[11-16 20:27:33 MainThread @dqn_train.py:98][0m train_episode over 253 steps, rewards -41683 for enemy
+[32m[11-16 20:27:34 MainThread @dqn_train.py:97][0m train_episode over 23 steps, rewards -8852
+[32m[11-16 20:27:34 MainThread @dqn_train.py:98][0m train_episode over 23 steps, rewards -3853 for enemy
+[32m[11-16 20:27:36 MainThread @dqn_train.py:97][0m train_episode over 130 steps, rewards -26684
+[32m[11-16 20:27:36 MainThread @dqn_train.py:98][0m train_episode over 130 steps, rewards -21689 for enemy
+[32m[11-16 20:27:39 MainThread @dqn_train.py:97][0m train_episode over 169 steps, rewards -33054
+[32m[11-16 20:27:39 MainThread @dqn_train.py:98][0m train_episode over 169 steps, rewards -28052 for enemy
+[32m[11-16 20:27:42 MainThread @dqn_train.py:97][0m train_episode over 162 steps, rewards -36957
+[32m[11-16 20:27:42 MainThread @dqn_train.py:98][0m train_episode over 162 steps, rewards -26958 for enemy
+[32m[11-16 20:27:42 MainThread @dqn_train.py:67][0m Total steps 14158, Evaluation over 15 steps, Average reward: -500.46666666666664
+[32m[11-16 20:27:42 MainThread @dqn_train.py:68][0m Total steps 14158, Evaluation over 15 steps, Average reward: -167.26666666666668 for enemy
+[32m[11-16 20:27:42 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7496
+[32m[11-16 20:27:42 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2497 for enemy
+[32m[11-16 20:27:50 MainThread @dqn_train.py:97][0m train_episode over 466 steps, rewards -75935
+[32m[11-16 20:27:50 MainThread @dqn_train.py:98][0m train_episode over 466 steps, rewards -70921 for enemy
+[32m[11-16 20:27:52 MainThread @dqn_train.py:97][0m train_episode over 131 steps, rewards -26937
+[32m[11-16 20:27:52 MainThread @dqn_train.py:98][0m train_episode over 131 steps, rewards -21936 for enemy
+[32m[11-16 20:27:53 MainThread @dqn_train.py:97][0m train_episode over 83 steps, rewards -18870
+[32m[11-16 20:27:53 MainThread @dqn_train.py:98][0m train_episode over 83 steps, rewards -13871 for enemy
+[32m[11-16 20:27:55 MainThread @dqn_train.py:97][0m train_episode over 96 steps, rewards -20783
+[32m[11-16 20:27:55 MainThread @dqn_train.py:98][0m train_episode over 96 steps, rewards -15779 for enemy
+[32m[11-16 20:27:58 MainThread @dqn_train.py:97][0m train_episode over 187 steps, rewards -36172
+[32m[11-16 20:27:58 MainThread @dqn_train.py:98][0m train_episode over 187 steps, rewards -31175 for enemy
+[32m[11-16 20:28:14 MainThread @dqn_train.py:67][0m Total steps 15136, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:28:14 MainThread @dqn_train.py:68][0m Total steps 15136, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:28:15 MainThread @dqn_train.py:97][0m train_episode over 22 steps, rewards -13678
+[32m[11-16 20:28:15 MainThread @dqn_train.py:98][0m train_episode over 22 steps, rewards -3679 for enemy
+[32m[11-16 20:28:15 MainThread @dqn_train.py:97][0m train_episode over 42 steps, rewards -12013
+[32m[11-16 20:28:15 MainThread @dqn_train.py:98][0m train_episode over 42 steps, rewards -7015 for enemy
+[32m[11-16 20:28:19 MainThread @dqn_train.py:97][0m train_episode over 189 steps, rewards -36110
+[32m[11-16 20:28:19 MainThread @dqn_train.py:98][0m train_episode over 189 steps, rewards -31111 for enemy
+[32m[11-16 20:28:20 MainThread @dqn_train.py:97][0m train_episode over 79 steps, rewards -18134
+[32m[11-16 20:28:20 MainThread @dqn_train.py:98][0m train_episode over 79 steps, rewards -13135 for enemy
+[32m[11-16 20:28:23 MainThread @dqn_train.py:97][0m train_episode over 164 steps, rewards -32096
+[32m[11-16 20:28:23 MainThread @dqn_train.py:98][0m train_episode over 164 steps, rewards -27099 for enemy
+[32m[11-16 20:28:24 MainThread @dqn_train.py:97][0m train_episode over 79 steps, rewards -18033
+[32m[11-16 20:28:24 MainThread @dqn_train.py:98][0m train_episode over 79 steps, rewards -13032 for enemy
+[32m[11-16 20:28:25 MainThread @dqn_train.py:97][0m train_episode over 74 steps, rewards -17418
+[32m[11-16 20:28:25 MainThread @dqn_train.py:98][0m train_episode over 74 steps, rewards -12419 for enemy
+[32m[11-16 20:28:27 MainThread @dqn_train.py:97][0m train_episode over 130 steps, rewards -26645
+[32m[11-16 20:28:27 MainThread @dqn_train.py:98][0m train_episode over 130 steps, rewards -21647 for enemy
+[32m[11-16 20:28:30 MainThread @dqn_train.py:97][0m train_episode over 144 steps, rewards -28019
+[32m[11-16 20:28:30 MainThread @dqn_train.py:98][0m train_episode over 144 steps, rewards -23007 for enemy
+[32m[11-16 20:28:46 MainThread @dqn_train.py:67][0m Total steps 16059, Evaluation over 1000 steps, Average reward: -167.997
+[32m[11-16 20:28:46 MainThread @dqn_train.py:68][0m Total steps 16059, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:28:46 MainThread @dqn_train.py:97][0m train_episode over 21 steps, rewards -8515
+[32m[11-16 20:28:46 MainThread @dqn_train.py:98][0m train_episode over 21 steps, rewards -3515 for enemy
+[32m[11-16 20:28:47 MainThread @dqn_train.py:97][0m train_episode over 29 steps, rewards -9860
+[32m[11-16 20:28:47 MainThread @dqn_train.py:98][0m train_episode over 29 steps, rewards -4861 for enemy
+[32m[11-16 20:28:50 MainThread @dqn_train.py:97][0m train_episode over 163 steps, rewards -31334
+[32m[11-16 20:28:50 MainThread @dqn_train.py:98][0m train_episode over 163 steps, rewards -26332 for enemy
+[32m[11-16 20:28:50 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7660
+[32m[11-16 20:28:50 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2658 for enemy
+[32m[11-16 20:28:51 MainThread @dqn_train.py:97][0m train_episode over 87 steps, rewards -19431
+[32m[11-16 20:28:51 MainThread @dqn_train.py:98][0m train_episode over 87 steps, rewards -14430 for enemy
+[32m[11-16 20:28:55 MainThread @dqn_train.py:97][0m train_episode over 215 steps, rewards -39507
+[32m[11-16 20:28:55 MainThread @dqn_train.py:98][0m train_episode over 215 steps, rewards -34508 for enemy
+[32m[11-16 20:28:55 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7672
+[32m[11-16 20:28:55 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2672 for enemy
+[32m[11-16 20:28:56 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7501
+[32m[11-16 20:28:56 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2500 for enemy
+[32m[11-16 20:28:58 MainThread @dqn_train.py:97][0m train_episode over 165 steps, rewards -32204
+[32m[11-16 20:28:58 MainThread @dqn_train.py:98][0m train_episode over 165 steps, rewards -27200 for enemy
+[32m[11-16 20:28:59 MainThread @dqn_train.py:97][0m train_episode over 71 steps, rewards -16838
+[32m[11-16 20:28:59 MainThread @dqn_train.py:98][0m train_episode over 71 steps, rewards -11839 for enemy
+[32m[11-16 20:29:03 MainThread @dqn_train.py:97][0m train_episode over 198 steps, rewards -37438
+[32m[11-16 20:29:03 MainThread @dqn_train.py:98][0m train_episode over 198 steps, rewards -32441 for enemy
+[32m[11-16 20:29:03 MainThread @dqn_train.py:67][0m Total steps 17055, Evaluation over 15 steps, Average reward: -500.46666666666664
+[32m[11-16 20:29:03 MainThread @dqn_train.py:68][0m Total steps 17055, Evaluation over 15 steps, Average reward: -167.26666666666668 for enemy
+[32m[11-16 20:29:03 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7676
+[32m[11-16 20:29:03 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2677 for enemy
+[32m[11-16 20:29:06 MainThread @dqn_train.py:97][0m train_episode over 184 steps, rewards -40351
+[32m[11-16 20:29:06 MainThread @dqn_train.py:98][0m train_episode over 184 steps, rewards -30347 for enemy
+[32m[11-16 20:29:15 MainThread @dqn_train.py:97][0m train_episode over 500 steps, rewards -74558
+[32m[11-16 20:29:15 MainThread @dqn_train.py:98][0m train_episode over 500 steps, rewards -74555 for enemy
+[32m[11-16 20:29:16 MainThread @dqn_train.py:97][0m train_episode over 76 steps, rewards -17622
+[32m[11-16 20:29:16 MainThread @dqn_train.py:98][0m train_episode over 76 steps, rewards -12617 for enemy
+[32m[11-16 20:29:17 MainThread @dqn_train.py:97][0m train_episode over 79 steps, rewards -18198
+[32m[11-16 20:29:17 MainThread @dqn_train.py:98][0m train_episode over 79 steps, rewards -13199 for enemy
+[32m[11-16 20:29:25 MainThread @dqn_train.py:97][0m train_episode over 500 steps, rewards -74869
+[32m[11-16 20:29:25 MainThread @dqn_train.py:98][0m train_episode over 500 steps, rewards -74873 for enemy
+[32m[11-16 20:29:26 MainThread @dqn_train.py:67][0m Total steps 18410, Evaluation over 15 steps, Average reward: -500.46666666666664
+[32m[11-16 20:29:26 MainThread @dqn_train.py:68][0m Total steps 18410, Evaluation over 15 steps, Average reward: -167.26666666666668 for enemy
+[32m[11-16 20:29:26 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7507
+[32m[11-16 20:29:26 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:29:26 MainThread @dqn_train.py:97][0m train_episode over 28 steps, rewards -9687
+[32m[11-16 20:29:26 MainThread @dqn_train.py:98][0m train_episode over 28 steps, rewards -4688 for enemy
+[32m[11-16 20:29:28 MainThread @dqn_train.py:97][0m train_episode over 77 steps, rewards -17905
+[32m[11-16 20:29:28 MainThread @dqn_train.py:98][0m train_episode over 77 steps, rewards -12909 for enemy
+[32m[11-16 20:29:29 MainThread @dqn_train.py:97][0m train_episode over 71 steps, rewards -16845
+[32m[11-16 20:29:29 MainThread @dqn_train.py:98][0m train_episode over 71 steps, rewards -11848 for enemy
+[32m[11-16 20:29:34 MainThread @dqn_train.py:97][0m train_episode over 314 steps, rewards -54915
+[32m[11-16 20:29:34 MainThread @dqn_train.py:98][0m train_episode over 314 steps, rewards -49910 for enemy
+[32m[11-16 20:29:37 MainThread @dqn_train.py:97][0m train_episode over 165 steps, rewards -31851
+[32m[11-16 20:29:37 MainThread @dqn_train.py:98][0m train_episode over 165 steps, rewards -26856 for enemy
+[32m[11-16 20:29:53 MainThread @dqn_train.py:67][0m Total steps 19080, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:29:53 MainThread @dqn_train.py:68][0m Total steps 19080, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:29:56 MainThread @dqn_train.py:97][0m train_episode over 141 steps, rewards -28585
+[32m[11-16 20:29:56 MainThread @dqn_train.py:98][0m train_episode over 141 steps, rewards -23580 for enemy
+[32m[11-16 20:29:56 MainThread @dqn_train.py:97][0m train_episode over 26 steps, rewards -9328
+[32m[11-16 20:29:56 MainThread @dqn_train.py:98][0m train_episode over 26 steps, rewards -4330 for enemy
+[32m[11-16 20:29:56 MainThread @dqn_train.py:97][0m train_episode over 25 steps, rewards -9183
+[32m[11-16 20:29:56 MainThread @dqn_train.py:98][0m train_episode over 25 steps, rewards -4184 for enemy
+[32m[11-16 20:29:57 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7507
+[32m[11-16 20:29:57 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:29:58 MainThread @dqn_train.py:97][0m train_episode over 85 steps, rewards -19105
+[32m[11-16 20:29:58 MainThread @dqn_train.py:98][0m train_episode over 85 steps, rewards -14104 for enemy
+[32m[11-16 20:30:01 MainThread @dqn_train.py:97][0m train_episode over 191 steps, rewards -35510
+[32m[11-16 20:30:01 MainThread @dqn_train.py:98][0m train_episode over 191 steps, rewards -30509 for enemy
+[32m[11-16 20:30:04 MainThread @dqn_train.py:97][0m train_episode over 136 steps, rewards -27337
+[32m[11-16 20:30:04 MainThread @dqn_train.py:98][0m train_episode over 136 steps, rewards -22338 for enemy
+[32m[11-16 20:30:08 MainThread @dqn_train.py:97][0m train_episode over 290 steps, rewards -49879
+[32m[11-16 20:30:08 MainThread @dqn_train.py:98][0m train_episode over 290 steps, rewards -44871 for enemy
+[32m[11-16 20:30:09 MainThread @dqn_train.py:97][0m train_episode over 30 steps, rewards -10001
+[32m[11-16 20:30:09 MainThread @dqn_train.py:98][0m train_episode over 30 steps, rewards -5004 for enemy
+[32m[11-16 20:30:25 MainThread @dqn_train.py:67][0m Total steps 20019, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:30:25 MainThread @dqn_train.py:68][0m Total steps 20019, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:30:26 MainThread @dqn_train.py:97][0m train_episode over 71 steps, rewards -16863
+[32m[11-16 20:30:26 MainThread @dqn_train.py:98][0m train_episode over 71 steps, rewards -11864 for enemy
+[32m[11-16 20:30:28 MainThread @dqn_train.py:97][0m train_episode over 80 steps, rewards -18309
+[32m[11-16 20:30:28 MainThread @dqn_train.py:98][0m train_episode over 80 steps, rewards -13310 for enemy
+[32m[11-16 20:30:34 MainThread @dqn_train.py:97][0m train_episode over 396 steps, rewards -68859
+[32m[11-16 20:30:34 MainThread @dqn_train.py:98][0m train_episode over 396 steps, rewards -63858 for enemy
+[32m[11-16 20:30:39 MainThread @dqn_train.py:97][0m train_episode over 305 steps, rewards -53175
+[32m[11-16 20:30:39 MainThread @dqn_train.py:98][0m train_episode over 305 steps, rewards -48175 for enemy
+[32m[11-16 20:30:40 MainThread @dqn_train.py:97][0m train_episode over 19 steps, rewards -8177
+[32m[11-16 20:30:40 MainThread @dqn_train.py:98][0m train_episode over 19 steps, rewards -3178 for enemy
+[32m[11-16 20:30:41 MainThread @dqn_train.py:97][0m train_episode over 76 steps, rewards -17633
+[32m[11-16 20:30:41 MainThread @dqn_train.py:98][0m train_episode over 76 steps, rewards -12637 for enemy
+[32m[11-16 20:30:41 MainThread @dqn_train.py:97][0m train_episode over 17 steps, rewards -7844
+[32m[11-16 20:30:41 MainThread @dqn_train.py:98][0m train_episode over 17 steps, rewards -2845 for enemy
+[32m[11-16 20:30:42 MainThread @dqn_train.py:97][0m train_episode over 20 steps, rewards -8345
+[32m[11-16 20:30:42 MainThread @dqn_train.py:98][0m train_episode over 20 steps, rewards -3346 for enemy
+[32m[11-16 20:30:42 MainThread @dqn_train.py:67][0m Total steps 21003, Evaluation over 15 steps, Average reward: -500.46666666666664
+[32m[11-16 20:30:42 MainThread @dqn_train.py:68][0m Total steps 21003, Evaluation over 15 steps, Average reward: -167.26666666666668 for enemy
+[32m[11-16 20:30:42 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7507
+[32m[11-16 20:30:42 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:30:44 MainThread @dqn_train.py:97][0m train_episode over 81 steps, rewards -18482
+[32m[11-16 20:30:44 MainThread @dqn_train.py:98][0m train_episode over 81 steps, rewards -13485 for enemy
+[32m[11-16 20:30:46 MainThread @dqn_train.py:97][0m train_episode over 143 steps, rewards -28712
+[32m[11-16 20:30:46 MainThread @dqn_train.py:98][0m train_episode over 143 steps, rewards -23708 for enemy
+[32m[11-16 20:30:48 MainThread @dqn_train.py:97][0m train_episode over 136 steps, rewards -27257
+[32m[11-16 20:30:48 MainThread @dqn_train.py:98][0m train_episode over 136 steps, rewards -22254 for enemy
+[32m[11-16 20:30:50 MainThread @dqn_train.py:97][0m train_episode over 132 steps, rewards -26974
+[32m[11-16 20:30:50 MainThread @dqn_train.py:98][0m train_episode over 132 steps, rewards -21980 for enemy
+[32m[11-16 20:30:52 MainThread @dqn_train.py:97][0m train_episode over 90 steps, rewards -19974
+[32m[11-16 20:30:52 MainThread @dqn_train.py:98][0m train_episode over 90 steps, rewards -14978 for enemy
+[32m[11-16 20:30:53 MainThread @dqn_train.py:97][0m train_episode over 77 steps, rewards -17877
+[32m[11-16 20:30:53 MainThread @dqn_train.py:98][0m train_episode over 77 steps, rewards -12875 for enemy
+[32m[11-16 20:30:54 MainThread @dqn_train.py:97][0m train_episode over 71 steps, rewards -16899
+[32m[11-16 20:30:54 MainThread @dqn_train.py:98][0m train_episode over 71 steps, rewards -11901 for enemy
+[32m[11-16 20:30:55 MainThread @dqn_train.py:97][0m train_episode over 21 steps, rewards -8492
+[32m[11-16 20:30:55 MainThread @dqn_train.py:98][0m train_episode over 21 steps, rewards -3494 for enemy
+[32m[11-16 20:30:55 MainThread @dqn_train.py:97][0m train_episode over 35 steps, rewards -10808
+[32m[11-16 20:30:55 MainThread @dqn_train.py:98][0m train_episode over 35 steps, rewards -5812 for enemy
+[32m[11-16 20:30:57 MainThread @dqn_train.py:97][0m train_episode over 79 steps, rewards -18144
+[32m[11-16 20:30:57 MainThread @dqn_train.py:98][0m train_episode over 79 steps, rewards -13147 for enemy
+[32m[11-16 20:30:58 MainThread @dqn_train.py:97][0m train_episode over 100 steps, rewards -21445
+[32m[11-16 20:30:58 MainThread @dqn_train.py:98][0m train_episode over 100 steps, rewards -16448 for enemy
+[32m[11-16 20:31:07 MainThread @dqn_train.py:97][0m train_episode over 500 steps, rewards -75129
+[32m[11-16 20:31:07 MainThread @dqn_train.py:98][0m train_episode over 500 steps, rewards -75138 for enemy
+[32m[11-16 20:31:23 MainThread @dqn_train.py:67][0m Total steps 22483, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:31:23 MainThread @dqn_train.py:68][0m Total steps 22483, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:31:23 MainThread @dqn_train.py:97][0m train_episode over 21 steps, rewards -8510
+[32m[11-16 20:31:23 MainThread @dqn_train.py:98][0m train_episode over 21 steps, rewards -3511 for enemy
+[32m[11-16 20:31:24 MainThread @dqn_train.py:97][0m train_episode over 26 steps, rewards -9318
+[32m[11-16 20:31:24 MainThread @dqn_train.py:98][0m train_episode over 26 steps, rewards -4317 for enemy
+[32m[11-16 20:31:24 MainThread @dqn_train.py:97][0m train_episode over 26 steps, rewards -9348
+[32m[11-16 20:31:24 MainThread @dqn_train.py:98][0m train_episode over 26 steps, rewards -4349 for enemy
+[32m[11-16 20:31:26 MainThread @dqn_train.py:97][0m train_episode over 132 steps, rewards -26774
+[32m[11-16 20:31:26 MainThread @dqn_train.py:98][0m train_episode over 132 steps, rewards -21780 for enemy
+[32m[11-16 20:31:29 MainThread @dqn_train.py:97][0m train_episode over 148 steps, rewards -29483
+[32m[11-16 20:31:29 MainThread @dqn_train.py:98][0m train_episode over 148 steps, rewards -24489 for enemy
+[32m[11-16 20:31:37 MainThread @dqn_train.py:97][0m train_episode over 500 steps, rewards -75789
+[32m[11-16 20:31:37 MainThread @dqn_train.py:98][0m train_episode over 500 steps, rewards -75797 for enemy
+[32m[11-16 20:31:53 MainThread @dqn_train.py:67][0m Total steps 23336, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:31:53 MainThread @dqn_train.py:68][0m Total steps 23336, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:31:56 MainThread @dqn_train.py:97][0m train_episode over 135 steps, rewards -27054
+[32m[11-16 20:31:56 MainThread @dqn_train.py:98][0m train_episode over 135 steps, rewards -22059 for enemy
+[32m[11-16 20:31:56 MainThread @dqn_train.py:97][0m train_episode over 36 steps, rewards -10967
+[32m[11-16 20:31:56 MainThread @dqn_train.py:98][0m train_episode over 36 steps, rewards -5968 for enemy
+[32m[11-16 20:31:57 MainThread @dqn_train.py:97][0m train_episode over 27 steps, rewards -9496
+[32m[11-16 20:31:57 MainThread @dqn_train.py:98][0m train_episode over 27 steps, rewards -4496 for enemy
+[32m[11-16 20:31:58 MainThread @dqn_train.py:97][0m train_episode over 94 steps, rewards -20640
+[32m[11-16 20:31:58 MainThread @dqn_train.py:98][0m train_episode over 94 steps, rewards -15644 for enemy
+[32m[11-16 20:32:00 MainThread @dqn_train.py:97][0m train_episode over 79 steps, rewards -18171
+[32m[11-16 20:32:00 MainThread @dqn_train.py:98][0m train_episode over 79 steps, rewards -13169 for enemy
+[32m[11-16 20:32:08 MainThread @dqn_train.py:97][0m train_episode over 500 steps, rewards -76987
+[32m[11-16 20:32:08 MainThread @dqn_train.py:98][0m train_episode over 500 steps, rewards -76981 for enemy
+[32m[11-16 20:32:24 MainThread @dqn_train.py:67][0m Total steps 24207, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:32:24 MainThread @dqn_train.py:68][0m Total steps 24207, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:32:29 MainThread @dqn_train.py:97][0m train_episode over 306 steps, rewards -53567
+[32m[11-16 20:32:29 MainThread @dqn_train.py:98][0m train_episode over 306 steps, rewards -48559 for enemy
+[32m[11-16 20:32:32 MainThread @dqn_train.py:97][0m train_episode over 144 steps, rewards -28806
+[32m[11-16 20:32:32 MainThread @dqn_train.py:98][0m train_episode over 144 steps, rewards -23807 for enemy
+[32m[11-16 20:32:35 MainThread @dqn_train.py:97][0m train_episode over 235 steps, rewards -42987
+[32m[11-16 20:32:35 MainThread @dqn_train.py:98][0m train_episode over 235 steps, rewards -37982 for enemy
+[32m[11-16 20:32:36 MainThread @dqn_train.py:97][0m train_episode over 18 steps, rewards -8009
+[32m[11-16 20:32:36 MainThread @dqn_train.py:98][0m train_episode over 18 steps, rewards -3010 for enemy
+[32m[11-16 20:32:36 MainThread @dqn_train.py:97][0m train_episode over 36 steps, rewards -10971
+[32m[11-16 20:32:36 MainThread @dqn_train.py:98][0m train_episode over 36 steps, rewards -5969 for enemy
+[32m[11-16 20:32:39 MainThread @dqn_train.py:97][0m train_episode over 184 steps, rewards -35004
+[32m[11-16 20:32:39 MainThread @dqn_train.py:98][0m train_episode over 184 steps, rewards -30011 for enemy
+[32m[11-16 20:32:56 MainThread @dqn_train.py:67][0m Total steps 25130, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:32:56 MainThread @dqn_train.py:68][0m Total steps 25130, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:32:59 MainThread @dqn_train.py:97][0m train_episode over 184 steps, rewards -34655
+[32m[11-16 20:32:59 MainThread @dqn_train.py:98][0m train_episode over 184 steps, rewards -29654 for enemy
+[32m[11-16 20:32:59 MainThread @dqn_train.py:97][0m train_episode over 18 steps, rewards -8010
+[32m[11-16 20:32:59 MainThread @dqn_train.py:98][0m train_episode over 18 steps, rewards -3011 for enemy
+[32m[11-16 20:33:06 MainThread @dqn_train.py:97][0m train_episode over 385 steps, rewards -63672
+[32m[11-16 20:33:06 MainThread @dqn_train.py:98][0m train_episode over 385 steps, rewards -58668 for enemy
+[32m[11-16 20:33:08 MainThread @dqn_train.py:97][0m train_episode over 137 steps, rewards -27601
+[32m[11-16 20:33:08 MainThread @dqn_train.py:98][0m train_episode over 137 steps, rewards -22598 for enemy
+[32m[11-16 20:33:08 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7675
+[32m[11-16 20:33:08 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2677 for enemy
+[32m[11-16 20:33:09 MainThread @dqn_train.py:97][0m train_episode over 27 steps, rewards -9519
+[32m[11-16 20:33:09 MainThread @dqn_train.py:98][0m train_episode over 27 steps, rewards -4520 for enemy
+[32m[11-16 20:33:17 MainThread @dqn_train.py:97][0m train_episode over 500 steps, rewards -77361
+[32m[11-16 20:33:17 MainThread @dqn_train.py:98][0m train_episode over 500 steps, rewards -77364 for enemy
+[32m[11-16 20:33:33 MainThread @dqn_train.py:67][0m Total steps 26397, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:33:33 MainThread @dqn_train.py:68][0m Total steps 26397, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:33:37 MainThread @dqn_train.py:97][0m train_episode over 228 steps, rewards -42143
+[32m[11-16 20:33:37 MainThread @dqn_train.py:98][0m train_episode over 228 steps, rewards -37146 for enemy
+[32m[11-16 20:33:39 MainThread @dqn_train.py:97][0m train_episode over 133 steps, rewards -26618
+[32m[11-16 20:33:39 MainThread @dqn_train.py:98][0m train_episode over 133 steps, rewards -21611 for enemy
+[32m[11-16 20:33:47 MainThread @dqn_train.py:97][0m train_episode over 500 steps, rewards -74098
+[32m[11-16 20:33:47 MainThread @dqn_train.py:98][0m train_episode over 500 steps, rewards -74088 for enemy
+[32m[11-16 20:34:04 MainThread @dqn_train.py:67][0m Total steps 27258, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:34:04 MainThread @dqn_train.py:68][0m Total steps 27258, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:34:05 MainThread @dqn_train.py:97][0m train_episode over 85 steps, rewards -19032
+[32m[11-16 20:34:05 MainThread @dqn_train.py:98][0m train_episode over 85 steps, rewards -14028 for enemy
+[32m[11-16 20:34:06 MainThread @dqn_train.py:97][0m train_episode over 25 steps, rewards -9135
+[32m[11-16 20:34:06 MainThread @dqn_train.py:98][0m train_episode over 25 steps, rewards -4133 for enemy
+[32m[11-16 20:34:08 MainThread @dqn_train.py:97][0m train_episode over 167 steps, rewards -32439
+[32m[11-16 20:34:08 MainThread @dqn_train.py:98][0m train_episode over 167 steps, rewards -27442 for enemy
+[32m[11-16 20:34:10 MainThread @dqn_train.py:97][0m train_episode over 92 steps, rewards -20265
+[32m[11-16 20:34:10 MainThread @dqn_train.py:98][0m train_episode over 92 steps, rewards -15264 for enemy
+[32m[11-16 20:34:10 MainThread @dqn_train.py:97][0m train_episode over 17 steps, rewards -7844
+[32m[11-16 20:34:10 MainThread @dqn_train.py:98][0m train_episode over 17 steps, rewards -2845 for enemy
+[32m[11-16 20:34:13 MainThread @dqn_train.py:97][0m train_episode over 178 steps, rewards -33709
+[32m[11-16 20:34:13 MainThread @dqn_train.py:98][0m train_episode over 178 steps, rewards -28709 for enemy
+[32m[11-16 20:34:17 MainThread @dqn_train.py:97][0m train_episode over 219 steps, rewards -40451
+[32m[11-16 20:34:17 MainThread @dqn_train.py:98][0m train_episode over 219 steps, rewards -35453 for enemy
+[32m[11-16 20:34:33 MainThread @dqn_train.py:67][0m Total steps 28041, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:34:33 MainThread @dqn_train.py:68][0m Total steps 28041, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:34:35 MainThread @dqn_train.py:97][0m train_episode over 75 steps, rewards -17472
+[32m[11-16 20:34:35 MainThread @dqn_train.py:98][0m train_episode over 75 steps, rewards -12470 for enemy
+[32m[11-16 20:34:36 MainThread @dqn_train.py:97][0m train_episode over 69 steps, rewards -16516
+[32m[11-16 20:34:36 MainThread @dqn_train.py:98][0m train_episode over 69 steps, rewards -11516 for enemy
+[32m[11-16 20:34:36 MainThread @dqn_train.py:97][0m train_episode over 21 steps, rewards -8477
+[32m[11-16 20:34:36 MainThread @dqn_train.py:98][0m train_episode over 21 steps, rewards -3474 for enemy
+[32m[11-16 20:34:37 MainThread @dqn_train.py:97][0m train_episode over 85 steps, rewards -19097
+[32m[11-16 20:34:37 MainThread @dqn_train.py:98][0m train_episode over 85 steps, rewards -14099 for enemy
+[32m[11-16 20:34:40 MainThread @dqn_train.py:97][0m train_episode over 133 steps, rewards -26764
+[32m[11-16 20:34:40 MainThread @dqn_train.py:98][0m train_episode over 133 steps, rewards -21764 for enemy
+[32m[11-16 20:34:40 MainThread @dqn_train.py:97][0m train_episode over 19 steps, rewards -8176
+[32m[11-16 20:34:40 MainThread @dqn_train.py:98][0m train_episode over 19 steps, rewards -3177 for enemy
+[32m[11-16 20:34:44 MainThread @dqn_train.py:97][0m train_episode over 217 steps, rewards -39595
+[32m[11-16 20:34:44 MainThread @dqn_train.py:98][0m train_episode over 217 steps, rewards -34588 for enemy
+[32m[11-16 20:34:45 MainThread @dqn_train.py:97][0m train_episode over 76 steps, rewards -17634
+[32m[11-16 20:34:45 MainThread @dqn_train.py:98][0m train_episode over 76 steps, rewards -12634 for enemy
+[32m[11-16 20:34:45 MainThread @dqn_train.py:97][0m train_episode over 22 steps, rewards -8676
+[32m[11-16 20:34:45 MainThread @dqn_train.py:98][0m train_episode over 22 steps, rewards -3678 for enemy
+[32m[11-16 20:34:46 MainThread @dqn_train.py:97][0m train_episode over 25 steps, rewards -9186
+[32m[11-16 20:34:46 MainThread @dqn_train.py:98][0m train_episode over 25 steps, rewards -4187 for enemy
+[32m[11-16 20:34:47 MainThread @dqn_train.py:97][0m train_episode over 67 steps, rewards -16147
+[32m[11-16 20:34:47 MainThread @dqn_train.py:98][0m train_episode over 67 steps, rewards -11149 for enemy
+[32m[11-16 20:34:49 MainThread @dqn_train.py:97][0m train_episode over 130 steps, rewards -26644
+[32m[11-16 20:34:49 MainThread @dqn_train.py:98][0m train_episode over 130 steps, rewards -21643 for enemy
+[32m[11-16 20:34:52 MainThread @dqn_train.py:97][0m train_episode over 161 steps, rewards -31287
+[32m[11-16 20:34:52 MainThread @dqn_train.py:98][0m train_episode over 161 steps, rewards -26284 for enemy
+[32m[11-16 20:35:08 MainThread @dqn_train.py:67][0m Total steps 29141, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:35:08 MainThread @dqn_train.py:68][0m Total steps 29141, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:35:10 MainThread @dqn_train.py:97][0m train_episode over 134 steps, rewards -27410
+[32m[11-16 20:35:10 MainThread @dqn_train.py:98][0m train_episode over 134 steps, rewards -22409 for enemy
+[32m[11-16 20:35:11 MainThread @dqn_train.py:97][0m train_episode over 21 steps, rewards -13492
+[32m[11-16 20:35:11 MainThread @dqn_train.py:98][0m train_episode over 21 steps, rewards -3491 for enemy
+[32m[11-16 20:35:13 MainThread @dqn_train.py:97][0m train_episode over 132 steps, rewards -26797
+[32m[11-16 20:35:13 MainThread @dqn_train.py:98][0m train_episode over 132 steps, rewards -21791 for enemy
+[32m[11-16 20:35:15 MainThread @dqn_train.py:97][0m train_episode over 147 steps, rewards -29611
+[32m[11-16 20:35:15 MainThread @dqn_train.py:98][0m train_episode over 147 steps, rewards -24612 for enemy
+[32m[11-16 20:35:17 MainThread @dqn_train.py:97][0m train_episode over 74 steps, rewards -17279
+[32m[11-16 20:35:17 MainThread @dqn_train.py:98][0m train_episode over 74 steps, rewards -12278 for enemy
+[32m[11-16 20:35:19 MainThread @dqn_train.py:97][0m train_episode over 169 steps, rewards -32943
+[32m[11-16 20:35:19 MainThread @dqn_train.py:98][0m train_episode over 169 steps, rewards -27943 for enemy
+[32m[11-16 20:35:21 MainThread @dqn_train.py:97][0m train_episode over 94 steps, rewards -20529
+[32m[11-16 20:35:21 MainThread @dqn_train.py:98][0m train_episode over 94 steps, rewards -15529 for enemy
+[32m[11-16 20:35:22 MainThread @dqn_train.py:97][0m train_episode over 39 steps, rewards -11522
+[32m[11-16 20:35:22 MainThread @dqn_train.py:98][0m train_episode over 39 steps, rewards -6524 for enemy
+[32m[11-16 20:35:23 MainThread @dqn_train.py:97][0m train_episode over 78 steps, rewards -17999
+[32m[11-16 20:35:23 MainThread @dqn_train.py:98][0m train_episode over 78 steps, rewards -13002 for enemy
+[32m[11-16 20:35:39 MainThread @dqn_train.py:67][0m Total steps 30029, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:35:39 MainThread @dqn_train.py:68][0m Total steps 30029, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:35:43 MainThread @dqn_train.py:97][0m train_episode over 248 steps, rewards -44609
+[32m[11-16 20:35:43 MainThread @dqn_train.py:98][0m train_episode over 248 steps, rewards -39598 for enemy
+[32m[11-16 20:35:45 MainThread @dqn_train.py:97][0m train_episode over 81 steps, rewards -18320
+[32m[11-16 20:35:45 MainThread @dqn_train.py:98][0m train_episode over 81 steps, rewards -13317 for enemy
+[32m[11-16 20:35:48 MainThread @dqn_train.py:97][0m train_episode over 166 steps, rewards -31952
+[32m[11-16 20:35:48 MainThread @dqn_train.py:98][0m train_episode over 166 steps, rewards -26956 for enemy
+[32m[11-16 20:35:51 MainThread @dqn_train.py:97][0m train_episode over 219 steps, rewards -39843
+[32m[11-16 20:35:51 MainThread @dqn_train.py:98][0m train_episode over 219 steps, rewards -34835 for enemy
+[32m[11-16 20:35:54 MainThread @dqn_train.py:97][0m train_episode over 147 steps, rewards -29489
+[32m[11-16 20:35:54 MainThread @dqn_train.py:98][0m train_episode over 147 steps, rewards -24493 for enemy
+[32m[11-16 20:35:55 MainThread @dqn_train.py:97][0m train_episode over 73 steps, rewards -17159
+[32m[11-16 20:35:55 MainThread @dqn_train.py:98][0m train_episode over 73 steps, rewards -12161 for enemy
+[32m[11-16 20:35:55 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7507
+[32m[11-16 20:35:55 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:35:56 MainThread @dqn_train.py:97][0m train_episode over 17 steps, rewards -7842
+[32m[11-16 20:35:56 MainThread @dqn_train.py:98][0m train_episode over 17 steps, rewards -2843 for enemy
+[32m[11-16 20:35:56 MainThread @dqn_train.py:97][0m train_episode over 18 steps, rewards -8003
+[32m[11-16 20:35:56 MainThread @dqn_train.py:98][0m train_episode over 18 steps, rewards -3004 for enemy
+[32m[11-16 20:36:12 MainThread @dqn_train.py:67][0m Total steps 31013, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:36:12 MainThread @dqn_train.py:68][0m Total steps 31013, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:36:14 MainThread @dqn_train.py:97][0m train_episode over 128 steps, rewards -25919
+[32m[11-16 20:36:14 MainThread @dqn_train.py:98][0m train_episode over 128 steps, rewards -20911 for enemy
+[32m[11-16 20:36:21 MainThread @dqn_train.py:97][0m train_episode over 409 steps, rewards -68851
+[32m[11-16 20:36:21 MainThread @dqn_train.py:98][0m train_episode over 409 steps, rewards -63848 for enemy
+[32m[11-16 20:36:23 MainThread @dqn_train.py:97][0m train_episode over 136 steps, rewards -27480
+[32m[11-16 20:36:23 MainThread @dqn_train.py:98][0m train_episode over 136 steps, rewards -22480 for enemy
+[32m[11-16 20:36:25 MainThread @dqn_train.py:97][0m train_episode over 94 steps, rewards -20619
+[32m[11-16 20:36:25 MainThread @dqn_train.py:98][0m train_episode over 94 steps, rewards -15621 for enemy
+[32m[11-16 20:36:27 MainThread @dqn_train.py:97][0m train_episode over 117 steps, rewards -24351
+[32m[11-16 20:36:27 MainThread @dqn_train.py:98][0m train_episode over 117 steps, rewards -19348 for enemy
+[32m[11-16 20:36:30 MainThread @dqn_train.py:97][0m train_episode over 201 steps, rewards -38131
+[32m[11-16 20:36:30 MainThread @dqn_train.py:98][0m train_episode over 201 steps, rewards -33129 for enemy
+[32m[11-16 20:36:30 MainThread @dqn_train.py:67][0m Total steps 32098, Evaluation over 15 steps, Average reward: -500.46666666666664
+[32m[11-16 20:36:30 MainThread @dqn_train.py:68][0m Total steps 32098, Evaluation over 15 steps, Average reward: -167.26666666666668 for enemy
+[32m[11-16 20:36:31 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7507
+[32m[11-16 20:36:31 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:36:33 MainThread @dqn_train.py:97][0m train_episode over 160 steps, rewards -31284
+[32m[11-16 20:36:33 MainThread @dqn_train.py:98][0m train_episode over 160 steps, rewards -26288 for enemy
+[32m[11-16 20:36:34 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7507
+[32m[11-16 20:36:34 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:36:37 MainThread @dqn_train.py:97][0m train_episode over 234 steps, rewards -42451
+[32m[11-16 20:36:37 MainThread @dqn_train.py:98][0m train_episode over 234 steps, rewards -37445 for enemy
+[32m[11-16 20:36:38 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -7508
+[32m[11-16 20:36:38 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:36:39 MainThread @dqn_train.py:97][0m train_episode over 97 steps, rewards -21139
+[32m[11-16 20:36:39 MainThread @dqn_train.py:98][0m train_episode over 97 steps, rewards -16143 for enemy
+[32m[11-16 20:36:41 MainThread @dqn_train.py:97][0m train_episode over 126 steps, rewards -25643
+[32m[11-16 20:36:41 MainThread @dqn_train.py:98][0m train_episode over 126 steps, rewards -20638 for enemy
+[32m[11-16 20:36:42 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7675
+[32m[11-16 20:36:42 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2676 for enemy
+[32m[11-16 20:36:43 MainThread @dqn_train.py:97][0m train_episode over 73 steps, rewards -17252
+[32m[11-16 20:36:43 MainThread @dqn_train.py:98][0m train_episode over 73 steps, rewards -12253 for enemy
+[32m[11-16 20:36:45 MainThread @dqn_train.py:97][0m train_episode over 139 steps, rewards -28138
+[32m[11-16 20:36:45 MainThread @dqn_train.py:98][0m train_episode over 139 steps, rewards -23135 for enemy
+[32m[11-16 20:36:46 MainThread @dqn_train.py:97][0m train_episode over 15 steps, rewards -12508
+[32m[11-16 20:36:46 MainThread @dqn_train.py:98][0m train_episode over 15 steps, rewards -2509 for enemy
+[32m[11-16 20:37:02 MainThread @dqn_train.py:67][0m Total steps 33003, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:37:02 MainThread @dqn_train.py:68][0m Total steps 33003, Evaluation over 1000 steps, Average reward: -168.0 for enemy
+[32m[11-16 20:37:05 MainThread @dqn_train.py:97][0m train_episode over 216 steps, rewards -39769
+[32m[11-16 20:37:05 MainThread @dqn_train.py:98][0m train_episode over 216 steps, rewards -34767 for enemy
+[32m[11-16 20:37:07 MainThread @dqn_train.py:97][0m train_episode over 124 steps, rewards -25411
+[32m[11-16 20:37:07 MainThread @dqn_train.py:98][0m train_episode over 124 steps, rewards -20412 for enemy
+[32m[11-16 20:37:08 MainThread @dqn_train.py:97][0m train_episode over 16 steps, rewards -7675
+[32m[11-16 20:37:08 MainThread @dqn_train.py:98][0m train_episode over 16 steps, rewards -2676 for enemy
+[32m[11-16 20:37:08 MainThread @dqn_train.py:97][0m train_episode over 37 steps, rewards -11121
+[32m[11-16 20:37:08 MainThread @dqn_train.py:98][0m train_episode over 37 steps, rewards -6120 for enemy
+[32m[11-16 20:37:11 MainThread @dqn_train.py:97][0m train_episode over 129 steps, rewards -31508
+[32m[11-16 20:37:11 MainThread @dqn_train.py:98][0m train_episode over 129 steps, rewards -21508 for enemy
+[32m[11-16 20:37:11 MainThread @dqn_train.py:97][0m train_episode over 36 steps, rewards -11036
+[32m[11-16 20:37:11 MainThread @dqn_train.py:98][0m train_episode over 36 steps, rewards -6037 for enemy
+[32m[11-16 20:37:13 MainThread @dqn_train.py:97][0m train_episode over 126 steps, rewards -25554
+[32m[11-16 20:37:13 MainThread @dqn_train.py:98][0m train_episode over 126 steps, rewards -20560 for enemy
+[32m[11-16 20:37:17 MainThread @dqn_train.py:97][0m train_episode over 225 steps, rewards -41048
+[32m[11-16 20:37:17 MainThread @dqn_train.py:98][0m train_episode over 225 steps, rewards -36045 for enemy
+[32m[11-16 20:37:18 MainThread @dqn_train.py:97][0m train_episode over 35 steps, rewards -10860
+[32m[11-16 20:37:18 MainThread @dqn_train.py:98][0m train_episode over 35 steps, rewards -5861 for enemy
+[32m[11-16 20:37:20 MainThread @dqn_train.py:97][0m train_episode over 132 steps, rewards -27005
+[32m[11-16 20:37:20 MainThread @dqn_train.py:98][0m train_episode over 132 steps, rewards -22005 for enemy
+[32m[11-16 20:37:36 MainThread @dqn_train.py:67][0m Total steps 34079, Evaluation over 1000 steps, Average reward: -168.0
+[32m[11-16 20:37:36 MainThread @dqn_train.py:68][0m Total steps 34079, Evaluation over 1000 steps, Average reward: -168.0 for enemy

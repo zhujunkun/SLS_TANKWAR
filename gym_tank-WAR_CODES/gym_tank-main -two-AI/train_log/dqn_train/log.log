@@ -1,0 +1,8 @@
+[33m[11-16 23:07:14 MainThread @tensorboard.py:34][0m [5m[33mWRN[0m [tensorboard] logdir is None, will save tensorboard files to train_log\dqn_train
+View the data using: tensorboard --logdir=./train_log\dqn_train --host=192.168.56.1
+[32m[11-16 23:07:31 MainThread @dqn_train.py:139][0m Total steps 1000, Evaluation over 1000 steps, Average reward: -177.74
+[32m[11-16 23:07:31 MainThread @dqn_train.py:140][0m Total steps 1000, Evaluation over 1000 steps, Average reward: -176.48 for enemy
+[32m[11-16 23:07:57 MainThread @dqn_train.py:49][0m train_episode over 1000 steps, rewards -148013
+[32m[11-16 23:07:57 MainThread @dqn_train.py:50][0m train_episode over 1000 steps, rewards -147915 for enemy
+[32m[11-16 23:08:13 MainThread @dqn_train.py:139][0m Total steps 2000, Evaluation over 1000 steps, Average reward: -177.74
+[32m[11-16 23:08:13 MainThread @dqn_train.py:140][0m Total steps 2000, Evaluation over 1000 steps, Average reward: -176.24 for enemy
